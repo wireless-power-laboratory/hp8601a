@@ -1,4 +1,4 @@
-# The hp8601a generator/sweeper
+## The hp8601a generator/sweeper
 
 Repository for research and development with the Hewlett-Packard 8601A Generator/Sweeper with Option 007.
 
